@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "mvolosin/kurento-module-sampleplugin-js"
+    "url": "mvolosin/kurento-sampleplugin-bower"
   },
   "scripts": {
     "prepublish": "node scripts/prepublish"
