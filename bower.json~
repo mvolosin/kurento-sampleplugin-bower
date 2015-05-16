@@ -1,0 +1,19 @@
+{
+  "name": "kurento-module-sampleplugin",
+  "description": "Sample plugin",
+  "keywords": [
+    "Kurento"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "mvolosin/Kurento/kurento-module-sampleplugin-js"
+  },
+  "authors": [],
+  "ignore": [
+    "doc/",
+    "lib/",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "main": "dist/kurento-module-sampleplugin.js"
+}
